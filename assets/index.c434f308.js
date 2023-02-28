@@ -12884,7 +12884,7 @@ const sg = Xn({
 		__name: "index",
 		setup(e) {
 			const t = Pm();
-			let n = "imsyy.top".split("."),
+			let n = "945km.github.io".split("."),
 				o = ct({
 					hello: "Hello World !",
 					text: "一个建立于 21 世纪的小站，存活于互联网的边缘"
@@ -14655,7 +14655,7 @@ const ty = Wf(Qg.exports = ey(Uf(Ja), function() {
 			vo((() => {
 				en((() => {
 					(async(e, t, n) => {
-						const o = await fetch(`https://api-meting.imsyy.top/api?server=${e}&type=${t}&id=${n}`);
+						const o = await fetch(`https://api-meting.945km.github.io/api?server=${e}&type=${t}&id=${n}`);
 						return await o.json()
 					})(n.songServer, n.songType, n.songId).then((e => {
 						l.value = Math.floor(Math.random() * e.length), s.value = e.length, o.musicIsOk = !0, l.value, s.value, n.volume, e.forEach((e => {
@@ -14894,7 +14894,7 @@ const dy = (e => (yn("data-v-c2ee5229"), e = e(), bn(), e))((() => Ur("span", nu
 			let n = St(!1),
 				o = ct({
 					text: "这里应该显示一句话",
-					from: "無名"
+					from: "945KM"
 				});
 			const r = () => {
 					(async() => {
@@ -15114,27 +15114,27 @@ const dy = (e => (yn("data-v-c2ee5229"), e = e(), bn(), e))((() => Ur("span", nu
 			let t = [{
 				icon: dg,
 				name: "博客",
-				link: "https://blog.imsyy.top/"
+				link: "https://blog.945km.github.io/"
 			}, {
 				icon: gg,
 				name: "网盘",
-				link: "https://pan.imsyy.top/"
+				link: "https://pan.945km.github.io/"
 			}, {
 				icon: wg,
 				name: "音乐",
-				link: "https://music.imsyy.top/"
+				link: "https://music.945km.github.io/"
 			}, {
 				icon: _g,
 				name: "起始页",
-				link: "https://nav.imsyy.top/"
+				link: "https://nav.945km.github.io/"
 			}, {
 				icon: hg,
 				name: "网址集",
-				link: "https://web.imsyy.top/"
+				link: "https://web.945km.github.io/"
 			}, {
 				icon: Mg,
 				name: "实验室",
-				link: "https://lab.imsyy.top/"
+				link: "https://lab.945km.github.io/"
 			}];
 			return (e, n) => {
 				const o = bh,
@@ -15184,7 +15184,7 @@ const dy = (e => (yn("data-v-c2ee5229"), e = e(), bn(), e))((() => Ur("span", nu
 		__name: "Right",
 		setup(e) {
 			const t = Pm();
-			let n = "imsyy.top".split(".");
+			let n = "945km.github.io".split(".");
 			return (e, o) => (Br(), Pr("div", {
 				class: s(Et(t).mobileOpenState ? "right" : "right hidden")
 			}, [Ur("div", {
@@ -15244,7 +15244,7 @@ const dy = (e => (yn("data-v-c2ee5229"), e = e(), bn(), e))((() => Ur("span", nu
 		name: "home",
 		author: "imsyy",
 		github: "https://github.com/imsyy/home",
-		home: "https://imsyy.top",
+		home: "https://945km.github.io",
 		private: !0,
 		version: "4.0.2",
 		type: "module",
@@ -15282,8 +15282,8 @@ const dy = (e => (yn("data-v-c2ee5229"), e = e(), bn(), e))((() => Ur("span", nu
 		class: "power"
 	},
 	Wy = Fy((() => Ur("a", {
-		href: "https://imsyy.top"
-	}, "無名", -1))),
+		href: "https://945km.github.io"
+	}, "945KM", -1))),
 	Uy = {
 		class: "hidden"
 	},
@@ -15595,7 +15595,7 @@ const dy = (e => (yn("data-v-c2ee5229"), e = e(), bn(), e))((() => Ur("span", nu
 		setup(e) {
 			const t = Pm();
 			let n = St(!1),
-				o = "imsyy.top".split("."),
+				o = "945km.github.io".split("."),
 				r = ct({
 					new: ["采用 Vue 进行重构", "音乐歌单支持快速自定义", "壁纸支持个性化设置", "音乐播放器支持音量控制"],
 					fix: ["修复天气 API", "时光胶囊显示错误", "移动端动画及细节", "图标更换为 IconPark"]
@@ -15777,7 +15777,7 @@ const jb = {
 					1 == e.button && (t.backgroundShow = !t.backgroundShow, t.backgroundShow ? Jv("已开启壁纸展示状态") : Jv("已退出壁纸展示状态"))
 				})), n(), window.addEventListener("resize", n);
 				let e = `\n\n版本: ${Dy.version}\n主页: ${Dy.home}\nGithub: ${Dy.github}`;
-				console.info(`%c無名の主页 %c\n _____ __  __  _______     ____     __\n|_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /\n  | | | \\  / | (___  \\ \\_/ /  \\ \\_/ / \n  | | | |\\/| |\\___ \\  \\   /    \\   /  \n _| |_| |  | |____) |  | |      | |   \n|_____|_|  |_|_____/   |_|      |_| %c${e}`, "font-size: 20px;font-weight: 600;color: rgb(244,167,89);", "font-size:12px;color: rgb(244,167,89);", "color: rgb(30,152,255);")
+				console.info(`%c945KMの主页 %c\n _____ __  __  _______     ____     __\n|_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /\n  | | | \\  / | (___  \\ \\_/ /  \\ \\_/ / \n  | | | |\\/| |\\___ \\  \\   /    \\   /  \n _| |_| |  | |____) |  | |      | |   \n|_____|_|  |_|_____/   |_|      |_| %c${e}`, "font-size: 20px;font-weight: 600;color: rgb(244,167,89);", "font-size:12px;color: rgb(244,167,89);", "color: rgb(30,152,255);")
 			})), Pn((() => t.innerWidth), (e => {
 				e < 990 && (t.boxOpenState = !1)
 			})), yo((() => {
